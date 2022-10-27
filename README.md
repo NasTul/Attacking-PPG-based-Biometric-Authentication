@@ -28,6 +28,10 @@ We conduct a series of experiments on the [UBFC-PHYS](https://ieee-dataport.org/
 We propose a signal restoration model SigR. It aims to learn the distribution of differences between signals from a small amount of data. It adapts GAN's network structure for signal processing. Specifically, our generator takes the rPPG signal as the input to learn the latent space, approximating the generated signal close to the victim's PPG signal that spoofs the discriminator. While SigR is proposed for signal restoration using GAN, the component of signal restoration in the new spoofing attack can be implemented by other machine learning/deep learning models. As a comparison, we use the Gaussian process (GP) and Gaussian mixture model (GMM) as baseline models. More details can be found in code **RestoreModel.ipynb**.
 
 
+## Experiment
+In our attacking process, the more similar the restored signal is to the PPG signal, the higher the signal quality is. As shown in Fig.7, we compare the PPG, rPPG and SigR signals. The signal after SigR recovery is more similar to the original signal. 
+
+
 
 
 
