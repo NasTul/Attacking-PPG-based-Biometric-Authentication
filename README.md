@@ -8,8 +8,6 @@ Published: AISec 2022
 ## Table of Contents
 * [Methodology](#methodology)
 * [Data Prepare](#data-prepare)
-* [Data Preprocess](#data-preprocess-feature-extraction)
-* [User-level Audio Auditor Model](#user-level-audio-auditor-model)
 * [Result Analysis](#result-analysis)
 
 
