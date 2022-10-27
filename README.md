@@ -32,7 +32,7 @@ We propose a signal restoration model SigR. It aims to learn the distribution of
 In our attacking process, the more similar the restored signal is to the PPG signal, the higher the signal quality is. As shown in Fig.7, we compare the PPG, rPPG and SigR signals. The signal after SigR recovery is more similar to the original signal. 
 
 
-<img width="553" alt="wave" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/wave.png">
+<img width="353" alt="wave" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/wave.png">
 
 
 
