@@ -10,6 +10,7 @@ Published: AISec 2022
 * [Data Prepare](#data-prepare)
 * [Restore Model](#restoreModel)
 * [Experiment](#experiment)
+* [Citation](#citation)
 
 
 ----
@@ -45,4 +46,13 @@ Red dots show the Pearson correlation coefficient between the original rPPG sign
 </div>
 
 More details can be found in code **Experiment.ipynb**.
+
+## Citation
+
+If you use this repository please cite the paper as follows:
+
+```
+```
+
+
 
