@@ -16,8 +16,9 @@ Published: AISec 2022
 ## Methodology
 We aim to design a spoofing attack on PPG-based biometric authentication only by video clips. Fig.3 presents the workflow of our attack. Initially, we obtain the region of interest in a video clip through face detection. To acquire a suitable rPPG signal, we adopt CHROM. Finally, we elaborate on how to restore an rPPG signal to the PPG signal. 
 
+<div align=center>
 <img width="853" alt="methodology" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/workflow.png">
-
+</div>
 
 
 ## Data Prepare
@@ -31,8 +32,9 @@ We propose a signal restoration model SigR. It aims to learn the distribution of
 ## Experiment
 In our attacking process, the more similar the restored signal is to the PPG signal, the higher the signal quality is. As shown in Fig.7, we compare the PPG, rPPG and SigR signals. The signal after SigR recovery is more similar to the original signal. 
 
-
+<div align=center>
 <img width="353" alt="wave" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/wave.png">
+</div>
 
 
 
