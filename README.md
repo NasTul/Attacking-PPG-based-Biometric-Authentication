@@ -36,5 +36,13 @@ In our attacking process, the more similar the restored signal is to the PPG sig
 <img width="353" alt="wave" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/wave.png">
 </div>
 
+Herein, we compare the correlation between the signals. 
+As shown in Fig.8, blue squares show the Pearson correlation coefficient between the PPG signal restored by SigR and the reference PPG signal. 
+Red dots show the Pearson correlation coefficient between the original rPPG signal harvested from the video and the reference PPG signal. We find that the coefficient between the rPPG signal harvested from the video and the reference PPG signal is drastically unstable. Conversely, the coefficient of the PPG signal restored by SigR and the reference PPG signal is steady between 0.96 and 1.00. Most of the signals restored by SigR have higher coefficients than directly harvested rPPG signals, indicating that the PPG signals restored by SigR are positively correlated with the reference PPG signal. 
 
+<div align=center>
+<img width="353" alt="wave" src="https://raw.githubusercontent.com/NasTul/Attacking-PPG-based-Biometric-Authentication/main/Figure/pearson.png">
+</div>
+
+More details can be found in code **Experiment.ipynb**.
 
