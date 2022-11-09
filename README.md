@@ -52,19 +52,19 @@ If you use this repository please cite the paper as follows:
 
 ```
 @inproceedings{10.1145/3560830.3563722,
-author = {Li, Lin and Chen, Chao and Pan, Lei and Zhang, Jun and Xiang, Yang},
-title = {Video is All You Need: Attacking PPG-Based Biometric Authentication},
-year = {2022},
-isbn = {9781450398800},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-url = {https://doi.org/10.1145/3560830.3563722},
-doi = {10.1145/3560830.3563722},
-booktitle = {Proceedings of the 15th ACM Workshop on Artificial Intelligence and Security},
-pages = {57–66},
-numpages = {10},
-location = {Los Angeles, CA, USA},
-series = {AISec'22}
+  author = {Li, Lin and Chen, Chao and Pan, Lei and Zhang, Jun and Xiang, Yang},
+  title = {Video is All You Need: Attacking PPG-Based Biometric Authentication},
+  year = {2022},
+  isbn = {9781450398800},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3560830.3563722},
+  doi = {10.1145/3560830.3563722},
+  booktitle = {Proceedings of the 15th ACM Workshop on Artificial Intelligence and Security},
+  pages = {57–66},
+  numpages = {10},
+  location = {Los Angeles, CA, USA},
+  series = {AISec'22}
 }
 ```
 
