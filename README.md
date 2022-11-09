@@ -7,7 +7,7 @@ Published: AISec 2022
 ## Table of Contents
 * [Methodology](#methodology)
 * [Data Prepare](#data-prepare)
-* [Restore Model](#restoreModel)
+* [Restore Model](#Restore-Model)
 * [Experiment](#experiment)
 * [Citation](#citation)
 
